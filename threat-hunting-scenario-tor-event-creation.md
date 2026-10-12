@@ -94,4 +94,4 @@ DeviceFileEvents
 ## Revision History:
 | **Version** | **Changes**                   | **Date**         | **Modified By**   |
 |-------------|-------------------------------|------------------|-------------------|
-| 1.0         | Initial draft                  | `October  6, 2026`  | `Maxwell Asante`   
+| 1.0         | Initial draft                  | `October  10, 2026`  | `Maxwell Asante`   
